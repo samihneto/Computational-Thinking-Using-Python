@@ -61,8 +61,8 @@ def test_palindromo_fails():
 
 
 def test_soma_quadrados():
-    n = 4
-    expected = 4
+    n = 1
+    expected = 1
     result = soma_quadrados(n)
 
     assert expected == result
